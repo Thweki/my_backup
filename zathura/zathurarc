@@ -1,0 +1,89 @@
+set window-title-basename "true"
+set selection-clipboard "clipboard"
+
+# Dracula color theme for Zathura
+# Swaps Foreground for Background to get a light version if the user prefers
+
+#
+# Dracula color theme
+#
+set default-bg                  "#272e33"
+set default-fg                  "#d3c6aa"
+
+set statusbar-fg                "#d3c6aa"
+set statusbar-bg                "#272e33"
+
+set inputbar-bg                 "#272e33"
+set inputbar-fg                 "#d3c6aa"
+
+set notification-bg             "#272e33"
+set notification-fg             "#d3c6aa"
+
+set notification-error-bg       "#272e33"
+set notification-error-fg       "#d3c6aa"
+
+set notification-warning-bg     "#272e33"
+set notification-warning-fg     "#d3c6aa"
+
+set highlight-color             "#4b565c"
+set highlight-active-color      "#e67e80"
+
+set completion-bg               "#272e33"
+set completion-fg               "#d3c6aa"
+
+set completion-highlight-fg     "#4b565c"
+set completion-highlight-bg     "#272e33"
+
+set recolor-lightcolor          "#272e33"
+set recolor-darkcolor           "#d3c6aa"
+
+set recolor                     "true"
+set recolor-keephue             "false"
+# set notification-error-bg       "#ff5555" # Red
+# set notification-error-fg       "#c8d3f5" # Foreground
+# set notification-warning-bg     "#ffb86c" # Orange
+# set notification-warning-fg     "#44475a" # Selection
+# set notification-bg             "#222436" # Background
+# set notification-fg             "#c8d3f5" # Foreground
+
+# set completion-bg               "#222436" # Background
+# set completion-fg               "#6272a4" # Comment
+# set completion-group-bg         "#222436" # Background
+# set completion-group-fg         "#6272a4" # Comment
+# set completion-highlight-bg     "#44475a" # Selection
+# set completion-highlight-fg     "#c8d3f5" # Foreground
+
+# set index-bg                    "#222436" # Background
+# set index-fg                    "#c8d3f5" # Foreground
+# set index-active-bg             "#44475a" # Current Line
+# set index-active-fg             "#c8d3f5" # Foreground
+
+# set inputbar-bg                 "#222436" # Background
+# set inputbar-fg                 "#c8d3f5" # Foreground
+# set statusbar-bg                "#222436" # Background
+# set statusbar-fg                "#c8d3f5" # Foreground
+
+# set highlight-color             "#ffb86c" # Orange
+# set highlight-active-color      "#ff79c6" # Pink
+
+# set default-bg                  "#222436" # Background
+# set default-fg                  "#c8d3f5" # Foreground
+
+# set render-loading              true
+# set render-loading-fg           "#222436" # Background
+# set render-loading-bg           "#c8d3f5" # Foreground
+
+# #
+# # Recolor mode settings
+# #
+
+# set recolor-lightcolor          "#222436" # Background
+# set recolor-darkcolor           "#c8d3f5" # Foreground
+
+# #
+# # Startup options
+# #
+# set adjust-open width
+# set recolor trueet default-fg "#c8d3f5"
+# set recolor true
+set recolor-revere-video true
